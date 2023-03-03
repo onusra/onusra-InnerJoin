@@ -6,6 +6,9 @@ public class ExampleEntity {
     private String teacher;
     private String student;
     private String textbook;
+    public static void main(String [] args){
+
+    }
 
     public ExampleEntity(String topic, String teacher, String student, String textbook) {
         this.topic = topic;
